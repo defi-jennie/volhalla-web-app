@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/volhalla-web-app/static/css/main.e7d786df.chunk.css",
+    "main.js": "/volhalla-web-app/static/js/main.dca635a8.chunk.js",
+    "runtime-main.js": "/volhalla-web-app/static/js/runtime-main.3472be7d.js",
+    "static/js/2.1b57e6a4.chunk.js": "/volhalla-web-app/static/js/2.1b57e6a4.chunk.js",
+    "index.html": "/volhalla-web-app/index.html",
+    "precache-manifest.63ef7f345b661f94bbb213810fb3b34c.js": "/volhalla-web-app/precache-manifest.63ef7f345b661f94bbb213810fb3b34c.js",
+    "service-worker.js": "/volhalla-web-app/service-worker.js",
+    "static/js/2.1b57e6a4.chunk.js.LICENSE.txt": "/volhalla-web-app/static/js/2.1b57e6a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3472be7d.js",
+    "static/js/2.1b57e6a4.chunk.js",
+    "static/css/main.e7d786df.chunk.css",
+    "static/js/main.dca635a8.chunk.js"
+  ]
+}
